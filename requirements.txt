@@ -1,5 +1,9 @@
-pyrogram
-tgcrypto
-datetime
-pytz
-python-dotenv
+DateTime==5.5
+pyaes==1.6.1
+Pyrogram==2.0.106
+PySocks==1.7.1
+python-dotenv==1.0.1
+pytz==2024.1
+setuptools==71.1.0
+TgCrypto==1.2.5
+zope.interface==6.4.post2
